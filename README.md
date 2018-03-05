@@ -4,7 +4,7 @@ This repository contains configuration files for a VPS, using django.
 
 ## Getting Started
 
-Deve-se seguir as orientações em:
+You should follow the tutorial:
 [Setting up Django with Nginx, Gunicorn, virtualenv, supervisor and PostgreSQL](http://michal.karzynski.pl/blog/2013/06/09/django-nginx-gunicorn-virtualenv-supervisor/) - by Michal
 
 ### Prerequisites
